@@ -1,1 +1,2 @@
-# cinema-tickets-exercise-v3
+# Cinema Tickets Application
+
